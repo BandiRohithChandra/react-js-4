@@ -1,0 +1,19 @@
+.history-container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 15px;
+}
+
+.details-container {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 15px;
+}
+
+.logo-img {
+  width: 20px;
+}
+
+.delete-icon{
+  width: 20px;
+}
